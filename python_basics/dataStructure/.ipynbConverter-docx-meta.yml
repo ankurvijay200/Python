@@ -1,0 +1,8 @@
+format:
+  docx:
+    reference-doc: "c:/Users/ankur/.vscode/extensions/cwalsh-developer.ipynb-converter-0.0.4/resources/reference.docx"
+highlight-style: none
+filters:
+  - "c:/Users/ankur/.vscode/extensions/cwalsh-developer.ipynb-converter-0.0.4/resources/no-tables.lua"
+pandoc:
+  wrap: auto
