@@ -1,1 +1,2 @@
-Hello, This is example.txt file
+Hey, This is updated file
+We used Append mode
