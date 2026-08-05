@@ -1,2 +1,7 @@
 Hey, This is updated file
 We used Append mode
+hello
+This
+is
+Python
+Course.
