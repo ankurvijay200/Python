@@ -4,19 +4,25 @@ tags: []
 
 ---
 
-Assignment 2 – Python Control flow
+Dear Sir/Ma'am,
 
-Sir/Ma'am,
+I have completed all four tasks for **Assignment 2 – Python Control Flow** in the Assignment2.ipynb file. I have uploaded two files:
 
-I have completed all 4 tasks in the Assignment2.ipynb file. Please check the file.
+* Assignment2.ipynb – Contains the code for all four tasks.
+* readme.md – Contains the relevant information about the assignment.
 
-i have given two files a Assignment2.ipynb & readme.ms, Assignment2.ipynb contails code of all four tasks
+The Assignment2.ipynb file is a Jupyter Notebook and can be opened and executed using VS Code with the appropriate Jupyter extension.
 
-you can run this code in vs code, this is Jupyter Notebook file.
+I am a **fresher .NET Developer** with prior programming experience, so I have implemented these tasks in my own way based on my understanding and coding knowledge.
 
-I am a .NET Developer Fresher with prior coding knowledge, so I have implemented the tasks in my own way based on my understanding.
+I have completed all four tasks and also uploaded the assignment to my GitHub profile. I will continue to update my GitHub repository as I learn and work on more Python concepts.
 
-I have completed all 4 tasks and also uploaded the assignment to my GitHub profile. I will regularly update my GitHub as I continue learning Python.
+GitHub Repository:
+https://github.com/ankurvijay200/Python/tree/master/python_basics/Assignments/module_4/Assignment2
 
-GitHub:
-https://github.com/ankurvijay200/Python/blob/master/python_basics/Assignments/module_4/Assignment1.ipynb
+Kindly review the assignment and let me know if any changes or improvements are required.
+
+Thank you.
+
+Best regards,
+Ankur Vijay
