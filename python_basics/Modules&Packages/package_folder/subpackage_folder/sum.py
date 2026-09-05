@@ -1,2 +1,2 @@
-def ankurSum(a,b):
-    return a+b
+def ankurSum1(a,b,c):
+    return a+b+c
