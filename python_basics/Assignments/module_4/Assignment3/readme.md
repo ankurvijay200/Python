@@ -19,7 +19,7 @@ I am a fresher .NET Developer with prior programming experience, so I have imple
 I have completed all four tasks and also uploaded the assignment to my GitHub profile. I will continue to update my GitHub repository as I learn and work on more Python concepts.
 
 GitHub Repository:
-https://github.com/ankurvijay200/Python/tree/master/python_basics/Assignments/module_4/Assignment2
+https://github.com/ankurvijay200/Python/tree/master/python_basics/Assignments/module_4/Assignment3
 
 Kindly review the assignment and let me know if any changes or improvements are required.
 
