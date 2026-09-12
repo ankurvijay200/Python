@@ -1,0 +1,5 @@
+Product:Mouse | Orignal Price: 500 | Discounted Price: 450.0
+Product:Keyboard | Orignal Price: 800 | Discounted Price: 720.0
+Product:Monitor | Orignal Price: 7000 | Discounted Price: 6300.0
+Product:pendrive | Orignal Price: 400 | Discounted Price: 360.0
+Product:Camera | Orignal Price: 5000 | Discounted Price: 4500.0
