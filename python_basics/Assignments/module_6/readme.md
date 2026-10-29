@@ -6,7 +6,7 @@ tags: []
 
 Dear Sir/Ma'am,
 
-I have completed all five tasks for **Assignment 8** in the assignment7.ipynb file.
+I have completed all five tasks for **Assignment 8** in the assignment8.ipynb file.
 
 **HOW TO RUN :**
 --> Ensure Python 3.x and Jupyter Notebook (or VS Code with Python extension) are installed.
